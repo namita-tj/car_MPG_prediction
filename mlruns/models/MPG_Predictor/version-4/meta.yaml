@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1743792368646
+current_stage: None
+description: null
+last_updated_timestamp: 1743792368646
+name: MPG_Predictor
+run_id: 60017eb0e1694511b9a25d70ddb62bea
+run_link: null
+source: file:///C:/Users/namit/PycharmProjects/car_MPG_prediction/mlruns/0/60017eb0e1694511b9a25d70ddb62bea/artifacts/mpg-predictor
+status: READY
+status_message: null
+storage_location: file:///C:/Users/namit/PycharmProjects/car_MPG_prediction/mlruns/0/60017eb0e1694511b9a25d70ddb62bea/artifacts/mpg-predictor
+user_id: null
+version: 4

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/namit/PycharmProjects/car_MPG_prediction/mlruns/0/d86666dd0f1d4066b7d4807b70528c88/artifacts
+end_time: 1743790496387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d86666dd0f1d4066b7d4807b70528c88
+run_name: grandiose-hawk-338
+run_uuid: d86666dd0f1d4066b7d4807b70528c88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743790489380
+status: 3
+tags: []
+user_id: namit

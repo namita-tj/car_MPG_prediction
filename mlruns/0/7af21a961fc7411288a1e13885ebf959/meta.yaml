@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/namit/PycharmProjects/car_MPG_prediction/mlruns/0/7af21a961fc7411288a1e13885ebf959/artifacts
+end_time: 1743792152078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7af21a961fc7411288a1e13885ebf959
+run_name: dapper-perch-732
+run_uuid: 7af21a961fc7411288a1e13885ebf959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743792145301
+status: 3
+tags: []
+user_id: namit

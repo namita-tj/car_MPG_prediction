@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/namit/PycharmProjects/car_MPG_prediction/mlruns/0/af40dba1f7724d26aba4c6ac74a8bc9a/artifacts
+end_time: 1743791933039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af40dba1f7724d26aba4c6ac74a8bc9a
+run_name: bustling-bee-380
+run_uuid: af40dba1f7724d26aba4c6ac74a8bc9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743791932995
+status: 4
+tags: []
+user_id: namit

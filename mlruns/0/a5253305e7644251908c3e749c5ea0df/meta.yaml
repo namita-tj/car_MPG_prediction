@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/namit/PycharmProjects/car_MPG_prediction/mlruns/0/a5253305e7644251908c3e749c5ea0df/artifacts
+end_time: 1743792363420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5253305e7644251908c3e749c5ea0df
+run_name: nimble-penguin-83
+run_uuid: a5253305e7644251908c3e749c5ea0df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743792356908
+status: 3
+tags: []
+user_id: namit

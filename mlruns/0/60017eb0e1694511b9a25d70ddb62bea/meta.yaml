@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/namit/PycharmProjects/car_MPG_prediction/mlruns/0/60017eb0e1694511b9a25d70ddb62bea/artifacts
+end_time: 1743792368665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60017eb0e1694511b9a25d70ddb62bea
+run_name: silent-shark-134
+run_uuid: 60017eb0e1694511b9a25d70ddb62bea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743792363748
+status: 3
+tags: []
+user_id: namit

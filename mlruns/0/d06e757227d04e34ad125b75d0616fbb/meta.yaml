@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/namit/PycharmProjects/car_MPG_prediction/mlruns/0/d06e757227d04e34ad125b75d0616fbb/artifacts
+end_time: 1743791266765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d06e757227d04e34ad125b75d0616fbb
+run_name: languid-yak-348
+run_uuid: d06e757227d04e34ad125b75d0616fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743791260260
+status: 3
+tags: []
+user_id: namit
